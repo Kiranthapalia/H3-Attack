@@ -54,7 +54,8 @@ So, this is how i successfully completed my task.
 
 <img width="586" alt="4" src="https://user-images.githubusercontent.com/102954934/217109621-cc3d2279-4dfa-49ac-aff4-91d3c464e9e9.png">
 
-* This shows why we should never use http network as they are not really secure cause they transfer data as plain text, that's why avoid using public wifi. 
+* This shows why we should never use http network as they are not really secure cause they transfer data as plain text. 
+* A professional hacker might take advantage of it. Imagine me(a total novice) being able to successfully crack an ID. 
 
 
 ## List of sources:
