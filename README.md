@@ -18,7 +18,7 @@ Week 3 assignments.
       An example of a technique is Exploitation of Vulnerability. 
       An example of sub-technique is Vulnerability exploitation through client-side exploitation, the use of malicious files or links delivered to users in order to take advantage of software flaws and access their systems. [Technique ](https://attack.mitre.org/techniques/enterprise/)
   ### Define procedure, and give an example of each. 
-      The procedure is the precise way a threat actor utilizes a certain technique or sub-technique. AN example of procedure is initial access procedure where it outlines the steps an attacker follows to get their first look at a target system or network.
-      An example of procedure can be 
+      The procedure is the precise way a threat actor utilizes a certain technique or sub-technique. 
+      AN example of procedure is initial access procedure where it outlines the steps an attacker follows to get their first look at a target system or network. MITRE ATT&CK lists how APT19 (G0073) uses a watering hole attack to perform a drive-by compromise (T1189) and gain initial access (TA0001) of forbes.com in 2014.[Source](https://www.cybereason.com/blog/what-is-the-mitre-attck-framework#:~:text=Procedure%3A%20A%20procedure%20is%20the,of%20forbes.com%20in%202014.)
       
     
