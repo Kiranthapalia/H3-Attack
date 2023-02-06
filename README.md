@@ -10,6 +10,9 @@ Week 3 assignments.
     - A framework for comprehending and following cyberattacks is the ATT&CK matrix. It is a matrix of attack strategies and methods arranged in accordance with the stages of the assault life cycle.
     - The matrix gives defenders a thorough understanding of the methods attackers can use to infiltrate systems and enables them to organize their defense and mitigation efforts according to priority. Security professionals and companies frequently use the matrix to enhance their threat intelligence and incident response capacities.
     - This ATT&CK Navigator is an excellent tool for visualizing a threat actor's methodology, the actions of a specific tool, or to create a security exercise. Go to https://mitre-attack.github.io/attack-navigator/enterprise/ to view the Navigator.
+    
+    In my opinion MITRE ATT&CK framework is one of the most recognized and respected in the cybersecurity industry as they provide a thorough and systematic method of describing and classifying the methods, techniques, and techniques employed by attackers which can aid organizations in better preparing for and defending against cyberattacks.
+    
 ## Y) Write an answer with references  
   ### Define tactic and give an example.
       An ATT&CK technique or sub-"why" technique's is represented by its tactics. The intention behind a move is the tactical objective of the enemy. An opponent might want to obtain credential access. for instance. for eg :- financial harm, such as from fraudulent transactions or being demanded to pay money in order to gain access to systems, Data theft or loss, such as the removal of data from the system. 
@@ -21,17 +24,13 @@ Week 3 assignments.
       The procedure is the precise way a threat actor utilizes a certain technique or sub-technique. 
       AN example of procedure is initial access procedure where it outlines the steps an attacker follows to get their first look at a target system or network. MITRE ATT&CK lists how APT19 (G0073) uses a watering hole attack to perform a drive-by compromise (T1189) and gain initial access (TA0001) of forbes.com in 2014.(https://www.cybereason.com/blog/what-is-the-mitre-attck-framework#:~:text=Procedure%3A%20A%20procedure%20is%20the,of%20forbes.com%20in%202014.) 
 ## Webgoat: A3 Sensitive data exposure.
+  - 
+
+
+## List of sources:
   - https://attack.mitre.org/tactics/enterprise/ [Define tactic and give an example]
   - https://attack.mitre.org/techniques/enterprise/ [Define technique and subtechnique, and give an example of each.]
   - https://www.cybereason.com/blog/what-is-the-mitre-attck-framework#:~:text=Procedure%3A%20A%20procedure%20is%20the,of%20forbes.com%20in%202014. [Define procedure, and give an example of each.]
   - https://attack.mitre.org/groups/G0073/ [Define procedure, and give an example of each.]
   - https://learning.oreilly.com/library/view/practical-threat-intelligence/9781838556372/B13376_04_Final_SK_ePub.xhtml#_idParaDest-73
-  - 
-   
-   
-   
-   
-  
-## List of sources: 
-  - 
   
