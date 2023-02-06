@@ -38,7 +38,7 @@ Week 3 assignments.
 
 <img width="421" alt="wireshark2" src="https://user-images.githubusercontent.com/102954934/217107648-b21023e0-3e55-4fa3-91e8-279df0ed46c7.png"> 
 
-- So after pressign the login button i had to open wireshark and then stop the recording. 
+- So after pressing the login button i had to open wireshark and then stop the recording. 
 
 <img width="556" alt="1" src="https://user-images.githubusercontent.com/102954934/217108300-70e40038-58d8-43a3-9ca0-8759729066d9.png">
 
