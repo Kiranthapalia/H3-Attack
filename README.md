@@ -14,8 +14,11 @@ Week 3 assignments.
   ### Define tactic and give an example.
       An ATT&CK technique or sub-"why" technique's is represented by its tactics. The intention behind a move is the tactical objective of the enemy. An opponent might want to obtain credential access. for instance. for eg :- financial harm, such as from fraudulent transactions or being demanded to pay money in order to gain access to systems, Data theft or loss, such as the removal of data from the system.[Source](https://attack.mitre.org/tactics/enterprise/).
   ### Define technique and subtechnique, and give an example of each.
-      According to the MITRE ATT&CK framework, a technique is a practical method allowing attackers to carry out a tactic's primary objective whereas a sub technique is a particular application or variation of a technique that is more detailed and specific than a technique itself. An example of a technique is Exploitation of Vulnerability. 
-      An example of sub-technique is Vulnerability exploitation through client-side exploitation, the use of malicious files or links delivered to users in           order to take advantage of software flaws and access their systems. [Source](https://attack.mitre.org/techniques/enterprise/)
+      According to the MITRE ATT&CK framework, a technique is a practical method allowing attackers to carry out a tactic's primary objective whereas a sub technique is a particular application or variation of a technique that is more detailed and specific than a technique itself. 
+      An example of a technique is Exploitation of Vulnerability. 
+      An example of sub-technique is Vulnerability exploitation through client-side exploitation, the use of malicious files or links delivered to users in order to take advantage of software flaws and access their systems. [Technique ](https://attack.mitre.org/techniques/enterprise/)
   ### Define procedure, and give an example of each. 
+      The procedure is the precise way a threat actor utilizes a certain technique or sub-technique. AN example of procedure is initial access procedure where it outlines the steps an attacker follows to get their first look at a target system or network.
+      An example of procedure can be 
       
     
