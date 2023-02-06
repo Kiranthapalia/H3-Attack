@@ -46,9 +46,15 @@ Week 3 assignments.
 
 <img width="584" alt="2" src="https://user-images.githubusercontent.com/102954934/217108734-625beeec-c935-451a-ad11-5db843db2d68.png">
 
-- There were 2 POST-requests and one of them contained the id and password. 
+- There were 2 POST-requests and one of them contained the id and password. (In this case ID being CaptainJack and password being Blackpearl)
 
 <img width="563" alt="3" src="https://user-images.githubusercontent.com/102954934/217108992-20e0f883-58f6-4824-a8d0-074f3169c673.png">
+
+So, this is how i successfully completed my task. 
+
+<img width="586" alt="4" src="https://user-images.githubusercontent.com/102954934/217109621-cc3d2279-4dfa-49ac-aff4-91d3c464e9e9.png">
+
+* This shows why we should never use http network as they are not really secure cause they transfer data as plain text.
 
 
 
