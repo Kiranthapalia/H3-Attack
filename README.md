@@ -29,7 +29,11 @@ Week 3 assignments.
       ANother example MITRE ATT&CK lists how APT19 (G0073) uses a watering hole attack to perform a drive-by compromise (T1189) and gain initial access (TA0001) of forbes.com in 2014.(https://www.cybereason.com/blog/what-is-the-mitre-attck-framework#:~:text=Procedure%3A%20A%20procedure%20is%20the,of%20forbes.com%20in%202014.) 
 
 ## Webgoat: A3 Sensitive data exposure.
-  - 
+  - First I had to install the wireshark using the command `$ sudo apt install wireshark -y`
+  - AFter the installaion I open the wireshark using the command `sudo wireshark`.
+   <img width="440" alt="wireshark" src="https://user-images.githubusercontent.com/102954934/217107317-4b2f1678-c303-4f73-82af-f5349c1476ec.png">
+  - I followed the instruction but where i had to press login 1st , go back to wireshark and then choose 'oopback:lo' but for some reason the image down below poped out.
+<img width="421" alt="wireshark2" src="https://user-images.githubusercontent.com/102954934/217107648-b21023e0-3e55-4fa3-91e8-279df0ed46c7.png">
 
 
 ## List of sources:
@@ -38,4 +42,5 @@ Week 3 assignments.
   - https://www.cybereason.com/blog/what-is-the-mitre-attck-framework#:~:text=Procedure%3A%20A%20procedure%20is%20the,of%20forbes.com%20in%202014. [Define procedure, and give an example of each.]
   - https://attack.mitre.org/groups/G0073/ [Define procedure, and give an example of each.]
   - https://learning.oreilly.com/library/view/practical-threat-intelligence/9781838556372/B13376_04_Final_SK_ePub.xhtml#_idParaDest-73
+  - https://www.arbexam.blog/webgoat-a3-sensitive-data-exposure-walkthrough/
   
