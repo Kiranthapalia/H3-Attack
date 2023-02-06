@@ -33,13 +33,24 @@ Week 3 assignments.
   - AFter the installaion I open the wireshark using the command `sudo wireshark`.
    
    <img width="440" alt="wireshark" src="https://user-images.githubusercontent.com/102954934/217107317-4b2f1678-c303-4f73-82af-f5349c1476ec.png">
-  - I followed the instruction where i had to press login 1st , go back to wireshark and then choose 'oopback:lo' but for some reason the image down below poped out. so to fix that problem i had to use additional commands `sudo dpkg-reconfigure wireshark-common` where i had to select yes and then `sudo usermod -a -G wireshark kirant` only after that i was able to proceed. 
+   
+  - I followed the instruction where i had to press login 1st , go back to wireshark and then choose 'loopback:lo' but for some reason the image down below poped out. so to fix that problem i had to use additional commands `sudo dpkg-reconfigure wireshark-common` where i had to select yes and then `sudo usermod -a -G wireshark kirant` only after that i was able to proceed. 
 
 <img width="421" alt="wireshark2" src="https://user-images.githubusercontent.com/102954934/217107648-b21023e0-3e55-4fa3-91e8-279df0ed46c7.png"> 
 
 - So after pressign the login button i had to open wireshark and then stop the recording. 
 
 <img width="556" alt="1" src="https://user-images.githubusercontent.com/102954934/217108300-70e40038-58d8-43a3-9ca0-8759729066d9.png">
+
+- I used the filter option to save my time where i put `http.request.method == "POST"`.
+
+<img width="584" alt="2" src="https://user-images.githubusercontent.com/102954934/217108734-625beeec-c935-451a-ad11-5db843db2d68.png">
+
+- There were 2 POST-requests and one of them contained the id and password. 
+
+<img width="563" alt="3" src="https://user-images.githubusercontent.com/102954934/217108992-20e0f883-58f6-4824-a8d0-074f3169c673.png">
+
+
 
 ## List of sources:
   - https://attack.mitre.org/tactics/enterprise/ [Define tactic and give an example]
